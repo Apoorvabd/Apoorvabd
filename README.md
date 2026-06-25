@@ -4,39 +4,51 @@
 
 ### 🚀 Frontend-Focused MERN Stack Developer
 
-Building responsive web applications, scalable APIs, and real-world products using React, Node.js, and MongoDB.
+Building responsive web applications, scalable APIs, and real-world products using React, Node.js, MongoDB, and PostgreSQL.
 
-🎯 Actively seeking Frontend Developer / MERN Stack Internship Opportunities
+**Full Stack Developer Intern at Infycore Payments Pvt. Ltd.**
 
 <img src="https://komarev.com/ghpvc/?username=Apoorvabd&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express)
+
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-20232A?style=for-the-badge&logo=mongoose&logoColor=880000)
+![Laravel](https://img.shields.io/badge/Laravel-20232A?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 
 ### Database & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-20232A?style=for-the-badge&logo=cloudinary)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-20232A?style=for-the-badge&logo=cloudinary&logoColor=4285F4)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Vercel](https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-20232A?style=for-the-badge&logo=render&logoColor=46E3B7)
+![Supabase](https://img.shields.io/badge/Supabase-20232A?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
 ---
-
 ## 📊 GitHub Stats Dashboard
 
 <div align="center">
