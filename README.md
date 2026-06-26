@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### 🚀 Frontend-Focused MERN Stack Developer
+### 🚀 Full Stack Developer
 
-Building responsive web applications, scalable APIs, and real-world products using React, Node.js, MongoDB, and PostgreSQL.
+Building responsive web applications, scalable APIs, and real-world products using React, Node.js,Laravel MongoDB, and PostgreSQL.
 
 **Full Stack Developer Intern at Infycore Payments Pvt. Ltd.**
 
