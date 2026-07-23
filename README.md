@@ -1,75 +1,111 @@
-# Hi, I'm Apoorv Chaturvedi 👋
+<h1 align="center">Hi 👋, I'm Apoorv Chaturvedi</h1>
 
-<div align="center">
+<h3 align="center">
+Full Stack Developer At Infycore Payments Pvt Ltd.
+</h3>
 
-### 🚀 Full Stack Developer
-
-Building responsive web applications, scalable APIs, and real-world products using React, Node.js,Laravel MongoDB, and PostgreSQL.
-
-**Full Stack Developer Intern at Infycore Payments Pvt. Ltd.**
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;System+Design+Enthusiast;Problem+Solver+%7C+DSA+Learner;Tech+Enthusiast" />
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=Apoorvabd&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
+<H2 align="center" >Connect WITH ME</H2> 
 
-## 🛠️ Tech Stack
+<p align="center">
 
-### Frontend
+<a href="mrapoorvchaturvedi7@gmail.com">
+<img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
+<a href="https://www.linkedin.com/in/apoorv-chaturvedi-197409321/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### Backend
+<a href="https://www.instagram.com/mr__apoorv7/?hl=en">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
 
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-20232A?style=for-the-badge&logo=mongoose&logoColor=880000)
-![Laravel](https://img.shields.io/badge/Laravel-20232A?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+<a href="https://github.com/Apoorvabd">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-### Database & Storage
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-20232A?style=for-the-badge&logo=cloudinary&logoColor=4285F4)
+## 💼 Professional Experience
 
-### Tools & Platforms
+### Full Stack Developer Intern | Infycore Payments Pvt. Ltd.
+📍 Greater Noida | Jun 2026 – Present
 
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Vercel](https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-20232A?style=for-the-badge&logo=render&logoColor=46E3B7)
-![Supabase](https://img.shields.io/badge/Supabase-20232A?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+- 🚀 Building production-grade FinTech applications using React, Node.js & PostgreSQL.
+- 🔐 Developing secure REST APIs with authentication & authorization.
+- 🗄️ Designing scalable database schemas using Prisma ORM.
+- ⚡ Optimizing application performance and fixing production issues.
+- 🤝 Collaborating with the development team using Git & Agile workflows.
 
----
-## 📊 GitHub Stats Dashboard
+## 💻 Tech Stack
 
-<div align="center">
+### 🎨 Frontend
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apoorvabd&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorvabd&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,js,ts,redux" />
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+### ⚙️ Backend
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Apoorvabd&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,prisma,cpp" />
+</p>
 
 ---
+
+### 🗄️ Database & Cloud
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase,cloudflare" />
+</p>
+
+---
+
+### 🛠️ Tools & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,claud" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+</p>
+
+## 📊 GitHub Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorvabd&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Apoorvabd&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Apoorvabd&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Apoorvabd&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Apoorvabd&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+
 
 ## 🚀 About Me
 
